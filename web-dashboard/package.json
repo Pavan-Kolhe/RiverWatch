@@ -1,0 +1,28 @@
+{
+  "name": "water-level-dashboard",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "appwrite": "^13.0.1",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.0.0",
+    "date-fns": "^3.0.6",
+    "leaflet": "^1.9.4",
+    "lucide-react": "^0.298.0",
+    "next": "14.0.4",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-leaflet": "^4.2.1",
+    "recharts": "^2.10.3",
+    "tailwind-merge": "^2.2.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.14"
+  }
+}
